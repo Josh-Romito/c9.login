@@ -1,0 +1,128 @@
+#footer{
+    height: 50px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin: auto;
+    border-radius: 6px;
+}
+
+.replyComment {
+    
+}
+
+.reply-btn{
+    float:right;
+}
+
+#pageLOGO {
+    font-family: 'Open Sans', sans-serif;
+    float: left;
+    font-size: 25px;
+    color: white;
+}
+
+ .modal {
+    text-align: center;
+    color:grey;
+}
+
+h1{
+    font-family: 'Bungee';
+    font-size: 22px;
+}
+
+#upload{
+    margin:auto;
+    color: grey;
+}
+.commentIMG{
+    width:40px;
+    height: 40px;
+    
+    
+}
+#comment{
+    padding:20px;
+    margin: auto;
+    
+}
+
+#popNAME
+{
+    font-weight: bolder;
+    position: absolute;
+    right:0;
+    left:100px;
+    top:40px;
+    bottom: 30px;
+}
+
+#commentAlert{
+    display: none;
+}
+
+.popover
+{
+    width:500px;
+    height:205px;
+    color:#111111;
+    margin-right: 16px;
+}
+
+.glyphicon-log-in{
+    font-size: 20px;
+    line-height: 40px;
+}
+.glyphicon-log-out{
+    font-size: 20px;
+    line-height: 40px;
+}
+#profileIMGpop
+{
+    width:100px;
+    height: 100px;
+    padding: 16px;
+}
+
+#userPanel{
+    display: none;
+	width:84%;
+	top:100px;
+	position:absolute;
+	left:15%;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	color:grey;
+}
+#profileIMG {
+    
+    height: 40px;
+    width: 40px;
+}
+
+#signupSuccess{
+    position: absolute;
+    top:100px;
+}
+
+#nav-item li a {
+ line-height: 40px;
+ color:white;
+}
+
+.well{
+    background: #222222;
+    
+}
+
+#sideMenu{
+    display: none;
+	width: 10%;
+	height: 75%;
+	top:100px;
+	position: fixed;
+	
+	border-style:none;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	border-radius:6px;
+	text-align: center;
+	
+}
