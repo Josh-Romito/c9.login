@@ -9,7 +9,7 @@
     $replyID = 0;
     
     
-    
+    //need to find a way to store replies
     $sql = "INSERT INTO comments (userID, comment, likes, dislikes, replyID)
             VALUES ('$uid', '$comment', '$likes', '$dislikes', '$replyID')";
             
